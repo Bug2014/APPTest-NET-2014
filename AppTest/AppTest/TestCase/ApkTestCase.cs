@@ -73,8 +73,16 @@ namespace AppTest.TestCase
             Thread.Sleep(3000);
             driver.FindElement(By.Name("点击登录")).Click();
             Thread.Sleep(3000);
-
-            driver.FindElement(By.Name("携程用户名/绑定手机/邮箱/卡号")).SendKeys("test111111");
+   
+            //输入用户名
+            driver.FindElement(By.Name("携程用户名/绑定手机/邮箱/卡号")).SendKeys(" test111111");
+            #region  输入中文用户名测试
+            //driver.FindElement(By.Name("携程用户名/绑定手机/邮箱/卡号")).SendKeys("赵江");
+            //IWebElement ete = driver.FindElement(By.Name("携程用户名/绑定手机/邮箱/卡号"));
+            //var ejs = (IJavaScriptExecutor)driver;
+            //ejs.ExecuteAsyncScript("arguments[0].value=arguments[1];", ete, "赵江");
+            #endregion
+          
             Thread.Sleep(3000);
 
             var editTexts = driver.FindElements(By.ClassName("android.widget.EditText"));
@@ -90,13 +98,8 @@ namespace AppTest.TestCase
             driver.FindElement(By.Name("首页")).Click();
             Thread.Sleep(3000);
 
-
-
-            driver.FindElement(By.Name("度假")).Click();
-            Thread.Sleep(2000);
-
-            driver.FindElement(By.Id("ctrip.android.view:id/inquire_ticket")).Click();
-            Thread.Sleep(10000);
+            driver.FindElement(By.Name("门票")).Click();
+            Thread.Sleep(12000);
 
             #region 搜索框
 
@@ -178,8 +181,7 @@ namespace AppTest.TestCase
             Thread.Sleep(9000);
 
             driver.FindElementByAccessibilityId("确认").Click();
-            Thread.Sleep(9000);
-      
+            Thread.Sleep(9000);     
         }
        
     }

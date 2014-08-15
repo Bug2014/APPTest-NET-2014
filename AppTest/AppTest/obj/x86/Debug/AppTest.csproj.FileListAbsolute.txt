@@ -11,3 +11,16 @@ D:\git-zjs\work-2014\AppTest\AppTest\bin\Debug\WebDriver.xml
 D:\git-zjs\work-2014\AppTest\AppTest\obj\x86\Debug\AppTest.exe
 D:\git-zjs\work-2014\AppTest\AppTest\obj\x86\Debug\AppTest.pdb
 D:\git-zjs\work-2014\AppTest\AppTest\bin\Debug\AppTest.exe.config
+D:\git-zjs\APPTest-NET-2014\AppTest\AppTest\bin\Debug\AppTest.exe.config
+D:\git-zjs\APPTest-NET-2014\AppTest\AppTest\obj\x86\Debug\AppTest.exe
+D:\git-zjs\APPTest-NET-2014\AppTest\AppTest\obj\x86\Debug\AppTest.pdb
+D:\git-zjs\APPTest-NET-2014\AppTest\AppTest\bin\Debug\Apks\chrome.apk
+D:\git-zjs\APPTest-NET-2014\AppTest\AppTest\bin\Debug\Apks\ctrip_9013.apk
+D:\git-zjs\APPTest-NET-2014\AppTest\AppTest\bin\Debug\Apks\UCBrowser.apk
+D:\git-zjs\APPTest-NET-2014\AppTest\AppTest\bin\Debug\Apks\UCBrowser_V9.8.0.435_Android_pf145_(Build14052717).apk
+D:\git-zjs\APPTest-NET-2014\AppTest\AppTest\bin\Debug\AppTest.exe
+D:\git-zjs\APPTest-NET-2014\AppTest\AppTest\bin\Debug\AppTest.pdb
+D:\git-zjs\APPTest-NET-2014\AppTest\AppTest\bin\Debug\appium-dotnet-driver.dll
+D:\git-zjs\APPTest-NET-2014\AppTest\AppTest\bin\Debug\WebDriver.dll
+D:\git-zjs\APPTest-NET-2014\AppTest\AppTest\bin\Debug\appium-dotnet-driver.pdb
+D:\git-zjs\APPTest-NET-2014\AppTest\AppTest\bin\Debug\WebDriver.xml

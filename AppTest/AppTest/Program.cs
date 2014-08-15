@@ -11,6 +11,7 @@ namespace AppTest
         static void Main(string[] args)
         {
             ApkTestCase apktest = new ApkTestCase();
+            //一个APP的例子          
             apktest.RunAppCase();
         }
     }
